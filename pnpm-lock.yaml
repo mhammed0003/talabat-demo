@@ -1,0 +1,10 @@
+lockfileVersion: 5.4
+
+specifiers:
+  lucide-react: ^0.263.0
+
+packages:
+
+  /lucide-react/0.263.0:
+    resolution: {integrity: sha512-FAKE-INTEGRITY-HASH}
+    dev: false
